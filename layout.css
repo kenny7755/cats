@@ -15,4 +15,9 @@
 .text {
     background-color: transparent;
 }
+.img {
+    object-fit: cover;
+    width: 25%
+    height: 25%
+}
 
