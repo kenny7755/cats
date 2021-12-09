@@ -23,7 +23,8 @@ h1 {
     object-fit: cover;
     width: 25%;
     height: 25%;
-    text-align: center;
+    margin: auto;
+    display: block;
 }
 li {
     background-color: transparent;
