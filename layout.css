@@ -1,7 +1,10 @@
 * {
     background-color: white;
 }
-
+#rectangle {
+    width: 400px;
+    height: 600px;
+}
 h1 {
     color: white; 
     font-family: 'Courier New'; 
