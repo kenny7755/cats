@@ -1,5 +1,9 @@
 * {
     background-color: #add8e6;
+    font-family: Arial;
+}
+h1 {
+    text-align: center;
 }
 
 #square {
