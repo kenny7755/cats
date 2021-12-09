@@ -20,4 +20,7 @@
     width: 25%;
     height: 25%;
 }
+li {
+    background-color: transparent;
+}
 
