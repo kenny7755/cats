@@ -36,3 +36,10 @@ h2 {
 p {
     margin-left: 20px;
 }
+square2 {
+    width: 1000px;
+    height: 1000px;
+    border-radius: 5%
+    margin: auto; 
+    border-color: transparent; 
+}
