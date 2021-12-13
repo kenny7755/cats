@@ -37,10 +37,11 @@ p {
     margin-left: 20px;
 }
 square2 {
+    margin-left: auto; 
+    margin-right: auto; 
     width: 1000px;
     height: 1000px;
     border-radius: 5%
-    margin: auto; 
     border-color: transparent; 
     background-color: white; 
 }
