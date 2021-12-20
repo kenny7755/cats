@@ -25,7 +25,7 @@ h1 {
      border-radius: 5%;
     margin-left: 900px; 
     position: relative; 
-    top: 300px;
+    bottom: 300px;
 }
 .text {
     background-color: transparent;
