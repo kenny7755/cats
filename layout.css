@@ -7,8 +7,9 @@ h1 {
 }
 
 #square {
-    width: 1000px;
-    height: 1000px;
+    display: inline-block; 
+    width: 500px;
+    height: 500px;
     background-color: white;
     border: transparent;
     border-radius: 5%;
