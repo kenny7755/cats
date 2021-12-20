@@ -25,7 +25,7 @@ h1 {
      border-radius: 5%;
     margin-left: 900px; 
     position: relative; 
-    bottom: 300px;
+    bottom: 500px;
 }
 .text {
     background-color: transparent;
@@ -49,4 +49,7 @@ p {
 }
 div {
     box-shadow: 10px 5px 5px rgb(0,0,0, 0.2);
+}
+#breeds {
+    background-color: transparent; 
 }
