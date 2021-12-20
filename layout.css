@@ -24,6 +24,7 @@ h1 {
     background-color: white;
      border-radius: 5%;
     margin-left: 900px; 
+    position: relative; 
     top: 300px;
 }
 .text {
