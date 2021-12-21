@@ -76,3 +76,6 @@ h3 {
 #catbreedtext {
     color: white;
 }
+#graycat {
+    object-fit: cover;
+}
