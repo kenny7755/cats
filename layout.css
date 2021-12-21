@@ -1,6 +1,6 @@
 * {
-    background-color: #add8e6;
-    font-family: Helvetica;
+    background-color: rgba(255, 197, 97, 1);
+    font-family: 'Outfit';
 }
 h1 {
     text-align: center;
@@ -10,7 +10,7 @@ h1 {
     display: inline-block; 
     width: 700px;
     height: 700px;
-    background-color: white;
+    background-color: rgb(245, 177, 95);
     border: transparent;
     border-radius: 5%;
     top: 300px;
