@@ -21,14 +21,15 @@ h1 {
     display: inline-block;
      width: 700px;
     height: 700px;
-    background-color: white;
+    background-color: rgb(245, 177, 95);
      border-radius: 5%;
     margin-left: 900px; 
     position: relative; 
-    bottom: 575px;
+    bottom: 600px;
 }
 .text {
     background-color: transparent;
+    color: white;
 }
 #image {
     object-fit: cover;
@@ -36,16 +37,20 @@ h1 {
     height: 25%;
     margin: auto;
     display: block;
+    
 }
 li {
     background-color: transparent;
+    color: white;
 }
 
 h2 {
     margin-left: 20px;
+    color: white;
 }
 p {
     margin-left: 20px;
+    color: white;
 }
 div {
     box-shadow: 10px 5px 5px rgb(0,0,0, 0.2);
@@ -53,14 +58,21 @@ div {
 #breeds {
     background-color: transparent; 
     margin-left: 20px;
+    color: white;
 }
 h4 {
      background-color: transparent; 
      margin-left: 20px;
+    color: white;
 }
 h5 {
      background-color: transparent; 
+    color: white;
 }
 h3 {
     margin-left: 20px; 
+    color: white;
+}
+#catbreedtext {
+    color: white;
 }
