@@ -82,3 +82,15 @@ h3 {
     object-fit: cover;
     display: inline-block; 
 }
+#siamese {
+     width: 25%;
+    height: 25%;
+    object-fit: cover;
+    display: inline-block; 
+}
+#bengal {
+width: 25%;
+    height: 25%;
+    object-fit: cover;
+    display: inline-block; 
+}
